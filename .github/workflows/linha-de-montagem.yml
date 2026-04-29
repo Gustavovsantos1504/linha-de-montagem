@@ -1,0 +1,5 @@
+name: linha de montagem
+on: push: branches: [main]
+jobs:
+buid-e-teste:runs-on: ubuntu-latest
+ste
